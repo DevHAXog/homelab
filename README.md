@@ -1,5 +1,9 @@
 # Cybersecurity Homelab on Proxmox
+## NOTE
 
+This is a work in progress, listed are my plans for this homelab.
+
+---
 Welcome to my personal cybersecurity homelab repository! This setup is powered by Proxmox and consists of multiple VMs dedicated to OSINT, penetration testing, and cloud engineering. This environment is designed to simulate real-world scenarios for hands-on learning and research in various cybersecurity domains.
 
 ## 🛠️ Homelab Overview
