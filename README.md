@@ -14,7 +14,7 @@ My homelab is hosted on Proxmox, a powerful open-source virtualization platform.
 
 The homelab consists of:
 
-- **Virtualization Platform:** Proxmox (hosted on a dedicated physical machine or server)
+- **Virtualization Platform:** Proxmox (hosted on a dedicated physical machine)
 - **Operating Systems:** Kali Linux, Ubuntu, Windows Server, and other OSes for different use cases
 - **Tools & Platforms:** Metasploit, Burp Suite, Wireshark, OSQuery, Splunk, ELK Stack, AWS, and more
 - **Networking:** Virtualized routers, switches, firewalls to simulate real-world network configurations
