@@ -50,10 +50,10 @@ This will allow for easier management, bulk operations, and streamlined deployme
 ![image](https://github.com/user-attachments/assets/9c2a89be-2626-4f81-b2f7-5a0f2754cc5a)
 
 Configured a Kali Linux virtual machine optimized for OSINT and basic penetration testing tasks. The VM is allocated 2 virtual CPUs, structured as 1 socket with 2 cores, along with 4,032 MB (4 GB) of memory.
-This setup is intentionally lightweight, as most standard OSINT and penetration testing activities don’t require extensive system resources. However, if I were to engage in more resource-intensive operations—such as password or hash cracking, I would scale up the CPU and memory allocations accordingly to meet performance demands.
+This setup is intentionally lightweight, as most standard OSINT and penetration testing activities don’t require extensive system resources. However, if I were to engage in more resource-intensive operations such as password or hash cracking, I would scale up the CPU and memory allocations accordingly to meet performance demands.
 ![image](https://github.com/user-attachments/assets/7c31b9fd-e496-412f-96e7-61240f5a6f69)
 
-This screenshot captures the installation process of Kali Linux Purple, a defensive/offensive security distro tailored for blue and purple team operations. Here, the installer is scanning the installation media — a standard step before package selection and base system installation begins.
+This screenshot captures the installation process of Kali Linux Purple, a defensive/offensive security distro tailored for blue and purple team operations. Here, the installer is scanning the installation media a standard step before package selection and base system installation begins.
 Kali Purple is a great addition to my lab for OSINT, threat emulation, and blue team experimentation. Looking forward to diving into its built-in tools and expanding my hands-on skills in detection, monitoring, and analysis. 👨‍💻🔍
 ![image](https://github.com/user-attachments/assets/87c60d56-1d41-452a-867d-1a1744f95b3e)
 
