@@ -25,7 +25,7 @@ The homelab consists of:
 
 ## 📚 Setup Guide
 
-1. **Proxmox Installation**
+1. **VM Server Installation**
    - Install XenServer on your physical server or host machine to manage the VMs.
    
 2. **Create & Configure VMs**
