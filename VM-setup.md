@@ -1,16 +1,17 @@
 ## VM Server setup
 ---
-I chose to go for XenServer over proxmox. I was having issues during the install of proxmox and ended up looking for alternatives.
+After encountering installation issues with Proxmox, I decided to pivot to XenServer for my virtualization platform.
+XenServer provided a smoother setup experience and met my requirements for managing virtual machines effectively.
 ---
 ## VMs
 
-For virtual machines I am choosing to do Two. I may end up doing more in the future.
+I'm currently running a small lab environment with two main virtual machines, with plans to expand in the future as my projects grow:
 
--- Kali Linux Purple (OSINT/Pentesting)
+Kali Linux Purple – Focused on OSINT and penetration testing tasks
 
--- Windows Server for AD learning purposes
+Windows Server – Set up for Active Directory and Windows enterprise environment practice
 
--- BackBox for Pure OSINT
+BackBox Linux – Dedicated to pure OSINT workflows and tooling
  
 ---
 ## Links
@@ -35,3 +36,9 @@ Creating a Network share for VM ISOs
 
 Creating a vm group
 ![image](https://github.com/user-attachments/assets/9c2a89be-2626-4f81-b2f7-5a0f2754cc5a)
+
+Configured a Kali Linux virtual machine optimized for OSINT and basic penetration testing tasks. The VM is allocated 2 virtual CPUs, structured as 1 socket with 2 cores, along with 4,032 MB (4 GB) of memory.
+This setup is intentionally lightweight, as most standard OSINT and penetration testing activities don’t require extensive system resources. However, if I were to engage in more resource-intensive operations—such as password or hash cracking, I would scale up the CPU and memory allocations accordingly to meet performance demands.
+![image](https://github.com/user-attachments/assets/7c31b9fd-e496-412f-96e7-61240f5a6f69)
+
+
