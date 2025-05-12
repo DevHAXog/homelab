@@ -32,7 +32,7 @@ The homelab consists of:
    - Set up virtual machines for each specific use case (OSINT, Pentesting, Cloud Engineering).
    
 3. **Network Configuration**
-   - Configure virtualized network infrastructure (routers, switches, firewalls) within Proxmox.
+   - Configure virtualized network infrastructure (routers, switches, firewalls) within PfSense.
 
 4. **Install & Configure Tools**
    - Install and configure cybersecurity tools like Metasploit, Burp Suite, and others on the VMs.
