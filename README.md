@@ -1,4 +1,4 @@
-# Cybersecurity Homelab on Proxmox
+# Cybersecurity Homelab on XenServer
 ## NOTE
 
 This is a work in progress, listed are my plans for this homelab.
@@ -8,7 +8,7 @@ Welcome to my personal cybersecurity homelab repository! This setup is powered b
 
 ## 🛠️ Homelab Overview
 
-My homelab is hosted on Proxmox, a powerful open-source virtualization platform. The lab consists of a series of virtual machines, each focused on a different cybersecurity domain:
+My homelab is hosted on XenServer, a powerful open-source virtualization platform. The lab consists of a series of virtual machines, each focused on a different cybersecurity domain:
 
 - **OSINT (Open Source Intelligence):** Tools and platforms for gathering intelligence from publicly available sources.
 - **Pentesting (Penetration Testing):** Virtual machines for running penetration testing tools, exploiting vulnerabilities, and assessing security.
@@ -18,7 +18,7 @@ My homelab is hosted on Proxmox, a powerful open-source virtualization platform.
 
 The homelab consists of:
 
-- **Virtualization Platform:** Proxmox (hosted on a dedicated physical machine)
+- **Virtualization Platform:** XenServer (hosted on a dedicated physical machine)
 - **Operating Systems:** Kali Linux, Ubuntu, Windows Server, and other OSes for different use cases
 - **Tools & Platforms:** Metasploit, Burp Suite, Wireshark, OSQuery, Splunk, ELK Stack, AWS, and more
 - **Networking:** Virtualized routers, switches, firewalls to simulate real-world network configurations
@@ -26,7 +26,7 @@ The homelab consists of:
 ## 📚 Setup Guide
 
 1. **Proxmox Installation**
-   - Install Proxmox on your physical server or host machine to manage the VMs.
+   - Install XenServer on your physical server or host machine to manage the VMs.
    
 2. **Create & Configure VMs**
    - Set up virtual machines for each specific use case (OSINT, Pentesting, Cloud Engineering).
